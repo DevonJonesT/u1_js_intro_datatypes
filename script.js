@@ -148,4 +148,4 @@ cathleen[2] = 'Gotham City'
 console.log(cathleen)
 
 kristyn[2] = 'Oakland'
-console.log(kristyn)
+console.log(kristyn) 
